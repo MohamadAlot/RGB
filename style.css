@@ -1,0 +1,74 @@
+html {
+    background: url(img/rainbowBG.jpg) no-repeat center fixed;
+    background-size: cover ;
+    
+}
+body {
+     width: 500px;
+     background-color: rgb(255, 255, 255);
+     margin: 10px auto;
+     font-family: Arial, Helvetica, sans-serif;
+     text-align: center;
+    opacity: 0.9;
+     border-radius: 20px;
+     padding: 20px 75px;
+     font-family:  Arial, Helvetica, sans-serif;
+}
+#red {
+     background-color: red;
+     color: rgb(255, 255, 255);
+     
+}
+#green {
+    background-color: green;
+    color: rgb(255, 255, 255);
+    
+}
+
+#blue {
+    background-color: blue;
+    color: white;
+    
+}
+#black {
+    background-color: black;
+    color: white;
+    border-radius: 5px ;
+    margin-left: 30px;
+    margin-right: 50px;
+}
+#white {
+    background-color: white;
+    color: black;
+    border-radius: 5px ;
+    margin-right: 55px;
+
+}
+#me {
+    background-color: rgb(255, 255, 0);
+    width: 400px;
+    height: 200px;
+    border: 3px solid gray;
+    margin-left: 50px;
+}
+#gray {
+    background-color: gray;
+    border-radius: 5px;
+    color: white;
+}
+#black:hover {
+    opacity: 0.5;
+}
+#white:hover {
+    opacity: 0.5;
+}
+h1 {
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   word-spacing: 2px;
+   font-size: 42px;
+}
+
+.rgb {
+    font-family:  'Courier New', Courier, monospace;
+    font-weight: bold;
+}
